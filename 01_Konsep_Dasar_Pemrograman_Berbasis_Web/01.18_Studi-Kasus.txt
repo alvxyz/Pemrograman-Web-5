@@ -6,10 +6,10 @@ Mahasiswa Teknik Informatika Kelas 5B, No Absen 06
 Pengumpulan Studi Kasus Latihan 18
 
 Link Video Youtube :
-
+https://youtu.be/fVAvwskQRTg
 
 Link Github :
-https://github.com/alvxyz/Desain-Web-4/tree/master/13_JavaScript%202
+https://github.com/alvxyz/Pemrograman-Web-5/tree/master/01_Konsep_Dasar_Pemrograman_Berbasis_Web
 
 Terima Kasih Banyak atas pengertiannya.
 Wasallamualaikum.
